@@ -4,10 +4,10 @@
 ## Grad-CAM implementation in Pytorch ##
 
 ### What makes the network think the image label is 'pug, pug-dog' and 'tabby, tabby cat':
-![Dog](https://hub.fastgit.org/jacobgil/pytorch-grad-cam/blob/master/examples/dog.jpg) ![Cat](https://hub.fastgit.org/jacobgil/pytorch-grad-cam/blob/master/examples/cat.jpg)
+![Dog](https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/dog.jpg) ![Cat](https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cat.jpg)
 
 ### Combining Grad-CAM with Guided Backpropagation for the 'pug, pug-dog' class:
-![Combined](https://hub.fastgit.org/jacobgil/pytorch-grad-cam/blob/master/examples/cam_gb_dog.jpg)
+![Combined](https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cam_gb_dog.jpg)
 
 Gradient class activation maps are a visualization technique for deep learning networks.
 
