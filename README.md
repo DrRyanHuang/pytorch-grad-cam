@@ -1,4 +1,4 @@
-中文 | [English](https://hub.fastgit.org/DrRyanHuang/pytorch-grad-cam/blob/master/README_EN.md)
+中文 | [English](https://github.com/DrRyanHuang/pytorch-grad-cam/blob/master/README_EN.md)
 
 ## 使用 Pytorch 实现 Grad-CAM ##
 
