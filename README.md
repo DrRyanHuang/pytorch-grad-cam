@@ -7,10 +7,10 @@ README 和 代码注释均做了简单修改和翻译
 
 
 ### 是什么使神经网络认为图像是 'pug, pug-dog' 和 'tabby, tabby cat' :
-![Dog](https://hub.fastgit.org/DrRyanHuang/pytorch-grad-cam/blob/master/examples/dog.jpg?raw=true) ![Cat](https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cat.jpg?raw=true)
+![Dog](https://hub.fastgit.org/DrRyanHuang/pytorch-grad-cam/blob/master/examples/dog.jpg) ![Cat](https://hub.fastgit.org/jacobgil/pytorch-grad-cam/blob/master/examples/cat.jpg)
 
 ### 将 Grad-CAM 与 Guided Backpropagation 相结合的 'pug, pug-dog' 图片:
-![Combined](https://hub.fastgit.org/DrRyanHuang/pytorch-grad-cam/blob/master/examples/cam_gb_dog.jpg?raw=true)
+![Combined](https://hub.fastgit.org/DrRyanHuang/pytorch-grad-cam/blob/master/examples/cam_gb_dog.jpg)
 
 Gradient class activation maps 是一种深度学习网络的可视化技术。
 
