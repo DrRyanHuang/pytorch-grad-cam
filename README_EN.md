@@ -1,3 +1,6 @@
+[中文](https://hub.fastgit.org/DrRyanHuang/pytorch-grad-cam/blob/master/README.md) | English
+
+
 ## Grad-CAM implementation in Pytorch ##
 
 ### What makes the network think the image label is 'pug, pug-dog' and 'tabby, tabby cat':
