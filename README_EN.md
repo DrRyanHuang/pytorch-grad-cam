@@ -9,7 +9,8 @@
 ### Combining Grad-CAM with Guided Backpropagation for the 'pug, pug-dog' class:
 ![Combined](https://github.com/jacobgil/pytorch-grad-cam/blob/master/examples/cam_gb_dog.jpg)
 
-Gradient class activation maps are a visualization technique for deep learning networks.
+
+### Gradient class activation maps are a visualization technique for deep learning networks.
 
 See the paper: https://arxiv.org/pdf/1610.02391v1.pdf
 
